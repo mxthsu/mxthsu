@@ -1,4 +1,4 @@
-Web Dev | Front-End - Junior
+Dev | Front-End - Junior
 
 - Name: Matheus Henrique Soares
 - Age: 18
