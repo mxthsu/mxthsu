@@ -1,4 +1,4 @@
-# Olá, eu O sou Matheus Henrique Soares 👋
+# Olá, eu o sou Matheus Henrique Soares 👋
 
 ### Software Engineer | Automação e IA
 
